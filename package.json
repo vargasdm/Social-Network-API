@@ -19,14 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joshvuh/MongoDB-Social-Network-API.git"
+    "url": "git+https://github.com/vargasdm/Social-Network-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Joshvuh/MongoDB-Social-Network-API/issues"
+    "url": "https://github.com/vargasdm/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/Joshvuh/MongoDB-Social-Network-API#readme"
+  "homepage": "https://github.com/vargasdm/Social-Network-API#readme"
 }
-  
